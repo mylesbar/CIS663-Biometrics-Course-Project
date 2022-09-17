@@ -11,9 +11,6 @@ import pandas as pd
 import csv
 import time
 
-
-
-
 print("window init")
 pygame.init()
 sizeX,sizeY = 800,600

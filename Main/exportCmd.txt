@@ -1,1 +1,3 @@
+For running the program over RDP on Raspberry Pi, run this command w/ sudo privilages.
+
 export XAUTHORITY=~/.Xauthority
